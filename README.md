@@ -33,7 +33,7 @@ SubestacoesAPI/
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
 ## 💡 Visite também o Front-End
-Acesse o repositório [SubestacoesAPI](https://github.com/Diego-Neri/FrontSubestacoes).
+Acesse o repositório [FrontSubestacoes](https://github.com/Diego-Neri/FrontSubestacoes).
 
 ## 📬 Contatos
 - **LinkedIn**: [linkedin.com/in/diegoneri500](https://linkedin.com/in/diegoneri500)
