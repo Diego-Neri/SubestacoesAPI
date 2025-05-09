@@ -29,7 +29,12 @@ SubestacoesAPI/
 
 └── README.md            # Documentação do projeto
 
-## Contatos
-LinkedIn: linkedin.com/in/diegogabrielneri
+## 💬 Como Contribuir
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
-E-mail: diegoneri500@gmail.com
+## 💡 Visite também o Front-End
+Acesse o repositório [SubestacoesAPI](https://github.com/Diego-Neri/FrontSubestacoes).
+
+## 📬 Contatos
+- **LinkedIn**: [linkedin.com/in/diegoneri500](https://linkedin.com/in/diegoneri500)
+- **E-mail**: diegoneri500@gmail.com
