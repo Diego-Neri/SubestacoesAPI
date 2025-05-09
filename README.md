@@ -20,8 +20,11 @@ A **SubestacoesAPI** é uma API desenvolvida para gerenciar informações e oper
 ## Estrutura do Projeto
 SubestacoesAPI/
 ├── src/main/java/       # Código-fonte da aplicação
+
 ├── src/main/resources/  # Arquivos de configuração
+
 ├── pom.xml              # Arquivo de dependências Maven
+
 └── README.md            # Documentação do projeto
 
 ## Contatos
