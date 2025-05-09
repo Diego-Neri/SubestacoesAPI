@@ -18,7 +18,9 @@ A **SubestacoesAPI** é uma API desenvolvida para gerenciar informações e oper
 - Listagem de todas as subestações.
 
 ## Estrutura do Projeto
+
 SubestacoesAPI/
+
 ├── src/main/java/       # Código-fonte da aplicação
 
 ├── src/main/resources/  # Arquivos de configuração
